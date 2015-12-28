@@ -1,0 +1,26 @@
+{
+  "name": "poco",
+  "version": "0.4.0",
+  "description": "Reverse music chord lookup at lightning speed",
+  "main": "poco.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulhoon/poco.git"
+  },
+  "keywords": [
+    "music",
+    "chords",
+    "notes",
+    "piano",
+    "lookup"
+  ],
+  "author": "Nic Mulvaney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mulhoon/poco/issues"
+  },
+  "homepage": "https://github.com/mulhoon/poco#readme"
+}
