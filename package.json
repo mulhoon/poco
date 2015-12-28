@@ -1,6 +1,6 @@
 {
   "name": "pocojs",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "Reverse music chord lookup at lightning speed",
   "main": "poco.js",
   "scripts": {
