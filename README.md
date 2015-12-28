@@ -7,6 +7,11 @@ Reverse chord lookup at lightning speed in Javascript (1kb)
 ## Why?
 I'm a huge fan of [teoria](https://github.com/saebekassebil/teoria). **poco** was created before I discovered [piu](https://github.com/saebekassebil/piu). Both use different methods to lookup chords. **poco** happens to be faster and smaller, so I thought I'd share it.
 
+## Installation
+``` 
+	npm install pocojs
+```
+
 ## Usage
 
 Initialise poco
@@ -17,7 +22,7 @@ Initialise poco
 Find a chord
 ``` javascript
 	poco.find(['a','c','e','g']);
-	
+
 	/* returns...
 	{
 		name: 'Amin7', 
