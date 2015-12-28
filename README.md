@@ -2,10 +2,10 @@
 Reverse chord lookup at lightning speed in Javascript (1kb)
 
 ## How?
-**poco** uses [teoria](https://github.com/saebekassebil/teoria) to generate an indexed table of all chords, including inversions. This table is used to look up chords and therefore doesn’t run *any* calculations. This make Poco over **400x faster** (800x on iOS) at chord recognition than [piu](https://github.com/saebekassebil/piu).
+**poco** uses [teoria](https://github.com/saebekassebil/teoria) to generate an indexed table of all chords, including inversions. This table is used to look up chords and therefore doesn’t run *any* calculations. This makes *poco* over **400x faster** (800x on iOS) at chord recognition than [piu](https://github.com/saebekassebil/piu). It does however take around 50ms to initialize, but it's worth it.
 
 ## Why?
-I'm a huge fan of [teoria](https://github.com/saebekassebil/teoria). **poco** was created before I discovered [piu](https://github.com/saebekassebil/piu). Both use different methods to lookup chords. **poco** happens to be faster and smaller, so I thought I'd share it.
+I'm a huge fan of [teoria](https://github.com/saebekassebil/teoria). *poco* was created before I discovered [piu](https://github.com/saebekassebil/piu). Both use different methods to lookup chords. *poco* happens to be faster and smaller, so I thought I'd share it.
 
 ## Installation
 ``` 
