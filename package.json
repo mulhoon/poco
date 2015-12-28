@@ -17,6 +17,7 @@
     "piano",
     "lookup"
   ],
+  "tonicExample": "teoria = require('teoria') \npoco = require('pocojs') \n\npoco.init() \npoco.find(['c','e','g','b']).name",
   "author": "Nic Mulvaney",
   "license": "MIT",
   "bugs": {
