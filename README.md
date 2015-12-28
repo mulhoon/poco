@@ -32,6 +32,7 @@ Find a chord
 	}
 	*/
 ```
+Example https://tonicdev.com/npm/pocojs
 
 #License
 
